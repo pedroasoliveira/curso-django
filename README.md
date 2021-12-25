@@ -1,7 +1,7 @@
 # curso-django
 Código desenvolvido no módulo de Django do [Site Python Pro](www.python.pro.br)
 
-Aplicação disponível em https://pythonprodjango.herokuapp.com/
+Aplicação pode ser encontrada em https://pythonprodjango.herokuapp.com/
 
 Branch principal: master
 
