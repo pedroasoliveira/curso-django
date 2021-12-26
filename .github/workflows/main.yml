@@ -34,13 +34,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-
-      # Run pytest
-      - name: Pytest
-        run: |
-          pipenv run pytest
-
-      # Run pytest
-      - name: flake8
-        run: |
-          pipenv run flake8
