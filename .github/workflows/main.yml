@@ -32,7 +32,7 @@ jobs:
         python-version: 3.9
     - name: Copiar configurações .env
       run: |
-        cp contrib/env-sample env
+        cp contrib/env-sample .env
     - name: Install dependencies
       run: |
         python3 -m pip install --upgrade pip
