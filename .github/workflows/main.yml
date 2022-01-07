@@ -54,3 +54,4 @@ jobs:
         super_secret: ${{ secrets.CODECOV_TOKEN }}
       run: |
         pipenv run codecov
+
